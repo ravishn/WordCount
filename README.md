@@ -1,8 +1,10 @@
 # WordCount
 Java word count program using Hadoop MapReduce
+---
 
 Note: This program requires Hadoop environment to run.
 
+---
 Steps to run the word count program:
 
 1. Copy the "wordcount.jar" archive to your local drive
